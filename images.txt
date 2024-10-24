@@ -1,6 +1,15 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# nginx
+# 支持私库
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
+# 支持指定架构
+# --platform=linux/arm64 xiaoyaliu/alist
+
+# tomcat 10 jdk21
+tomcat:10.1.31-jdk21
+
+# mysql 9
+mysql:9.1.0
+
+# redis 7
+redis:7.4.1
