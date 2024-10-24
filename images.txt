@@ -13,3 +13,6 @@ mysql:9.1.0
 
 # redis 7
 redis:7.4.1
+
+# portainer
+portainer/portainer-ce:2.21.4
