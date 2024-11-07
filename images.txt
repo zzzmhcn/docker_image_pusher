@@ -18,4 +18,4 @@ redis:7.4.1
 portainer/portainer-ce:2.21.4
 
 # JRE21
-adoptopenjdk:21.0.5_11-jre
+eclipse-temurin:21.0.5_11-jre
