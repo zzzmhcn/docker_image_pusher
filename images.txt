@@ -7,6 +7,7 @@
 
 # tomcat 10 jdk17
 tomcat:10.1.34-jdk17
+tomcat:8.5-jdk8
 
 # mysql 8
 mysql:8.4.3
