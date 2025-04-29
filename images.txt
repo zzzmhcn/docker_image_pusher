@@ -23,3 +23,6 @@ portainer/portainer-ce:lts
 
 # JRE21
 eclipse-temurin:21-jre
+
+# postgres
+postgres:17
